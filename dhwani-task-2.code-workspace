@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "./"
+		}
+	],
+	"settings": {
+		"peacock.color": "",
+		"peacock.affectActivityBar": false,
+		"peacock.affectPanelBorder": false,
+		"peacock.affectSideBarBorder": false,
+		"peacock.affectStatusBar": false,
+		"peacock.affectTitleBar": false,
+		"peacock.elementAdjustments": {
+			"activityBar": "none",
+			"statusBar": "none",
+			"titleBar": "none"
+		},
+		"peacock.surpriseMeOnStartup": false
+	}
+}
